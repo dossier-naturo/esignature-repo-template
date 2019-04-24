@@ -1,5 +1,5 @@
-# Artisan Church esignature
-The email signature for Artisan Church (Canada)
+# Dossier Digital esignature template
+The email signature template for Dossier Creative
 
 
-To view the esignature please visit: [https://artisan-church.github.io/esignature/index.html](https://artisan-church.github.io/esignature/index.html)
+To view the esignature please visit the github pages website for this repo: [https://dossiercreative.github.io/esignature-repo-template/index.html](https://dossiercreative.github.io/esignature-repo-template/index.html)
